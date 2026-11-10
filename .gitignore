@@ -12,6 +12,7 @@ __pycache__/
 
 # Generated outputs
 figures/
+further_analysis/
 
 # Environment variables
 .env
